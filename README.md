@@ -47,7 +47,7 @@ Community Assistant Discord Bot is a sophisticated Discord bot designed to integ
 After running the bot, it can be interacted with on any Discord server where it has been added. Use specific commands like `!price BTC` to fetch the latest price of Bitcoin or `!roadmap` to view the project's development roadmap.
 
 ## Author
-- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/riccardo-cascone-440085320/))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
